@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5NXRnMmRhNWJ0azg3eTJ2N2IwbjJlYTZkOXg2eTRuMXN5a3IwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8dLRPN6d6V4iJIOUn/giphy.gif" width="30px">
 </p>
 
-<img align="right" width="250px" alt="lemon_color_palette" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRrcXVsNGNqejY2Y3J4Y2gybTZ6OTE4dWMwd3lnendlYWg0cXB1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVkuRpthfGguzWueWp/giphy.gif">
+<img align="right" width="230px" alt="lemon_color_palette" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRrcXVsNGNqejY2Y3J4Y2gybTZ6OTE4dWMwd3lnendlYWg0cXB1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVkuRpthfGguzWueWp/giphy.gif">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZtcXZpbzhwZjgyOTdxcTU5ZGt4ZDhnOHR1aHdiejhybTJkM21oYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50px">**About Personal Stuffs...**
 
