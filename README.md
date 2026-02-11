@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 &emsp;&emsp;🔭 I'm currently studying DAW.<br>
 &emsp;&emsp;🔭 Trying to mix **Design + Coding + Wellness** <br>
 &emsp;&emsp;🌱 Learning everything I can while I'm working as natural therapist.<br>
-&emsp;&emsp;⚡ Fun fact: During coding sessions, I use aromatherapy to remain focused and prevent headaches.<br>
+&emsp;&emsp;⚡ Fun fact: I use aromatherapy to remain focused and prevent headaches while I'm coding.<br>
 &emsp;&emsp;😄 **Status:** <em>Brain.exe has stopped working.</em> Please restart with coffee and aromatherapy.<br><br><br><br>
  
 ### ⚙️ &nbsp;GitHub Analytics
